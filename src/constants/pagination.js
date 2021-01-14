@@ -1,0 +1,1 @@
+export const MAX_IN_PAGE = 20;
